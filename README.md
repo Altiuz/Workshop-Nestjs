@@ -57,7 +57,7 @@ $ npm run start:prod
 ## Ejemplos de uso 📌
 
 ```
-GET http://localhost:3000/users
+GET http://localhost:3000/api/users
 ```
 ```
 # Request: N/A
@@ -85,7 +85,7 @@ GET http://localhost:3000/users
 ```
 
 ```
-GET http://localhost:3000/users/1
+GET http://localhost:3000/api/users/1
 ```
 ```
 # Request: N/A
@@ -107,7 +107,7 @@ GET http://localhost:3000/users/1
 ```
 
 ```
-POST http://localhost:3000/users
+POST http://localhost:3000/api/users
 ```
 
 ```
@@ -135,7 +135,7 @@ POST http://localhost:3000/users
 ```
 
 ```
-PUT http://localhost:3000/users/2
+PUT http://localhost:3000/api/users/2
 ```
 
 ```
@@ -159,7 +159,7 @@ PUT http://localhost:3000/users/2
 ```
 
 ```
-DELETE http://localhost:3000/users/2
+DELETE http://localhost:3000/api/users/2
 ```
 ```
 # Request: N/A
